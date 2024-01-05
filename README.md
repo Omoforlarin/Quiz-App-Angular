@@ -1,1 +1,2 @@
-My Quiz App first Angular project trial
+My Quiz App, first Angular project Assignment
+
